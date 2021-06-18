@@ -1,3 +1,4 @@
+# Esse código só acerta alguns poucos casos de teste
 n = int(input())
 amigos = dict()
 final = dict()
